@@ -29,6 +29,7 @@ h1{
     align-items: center;
     background-image: url("./src/img/fundo-relogio.png");
     background-size: cover;
+    
 }
 #relogio-centro{
     background-color:  rgba(51,22,51,1);
